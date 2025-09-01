@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30724bdabcf8bec4ba536c396d7cc35d, type: 3}
+  m_Name: Barbarian
+  m_EditorClassIdentifier: 
+  nameOfAlly: Barbarian
+  health: 6
+  weapon: {fileID: 11400000, guid: 153cca086e99eb54c8304e2a62eede3a, type: 2}
+  stats:
+    strength: 3
+    agility: 1
+    stamina: 2
+  abilities: 070000000400000008000000
